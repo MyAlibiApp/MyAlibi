@@ -1,0 +1,6 @@
+framework module Pods_FloatNoteUITests {
+  umbrella header "Pods-FloatNoteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
